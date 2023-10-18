@@ -1,0 +1,1 @@
+<h1>This is an Qr code Generator app</h1>
